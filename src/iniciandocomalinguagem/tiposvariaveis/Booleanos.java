@@ -1,4 +1,4 @@
-package iniciandocomalinguagem;
+package iniciandocomalinguagem.tiposvariaveis;
 
 public class Booleanos {
 
