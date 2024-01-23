@@ -11,4 +11,9 @@ public class ContaCorrente extends ContaMain {
         double novoValor = valor + 2;
         return super.sacar(novoValor);
     }
+
+    @Override
+    public void gerarExtrato() {
+        System.out.println("Gerando extrato conta corrente.");
+    }
 }
